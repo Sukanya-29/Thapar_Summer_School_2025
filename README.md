@@ -3,5 +3,5 @@
 
 ### **What to do?**
 - In this MiniProject we have to read the input file.
-- Here ROll Nums are repeated and we have to add the marks of corresponding Roll Nums.
+- Here Roll Nums are repeated and we have to add the marks of corresponding Roll Nums.
 - Create an output file and store the data in that file.
