@@ -6,6 +6,7 @@ This repository documents the comprehensive **45-days industrial training** comp
 This rigorous technical training was undertaken as a **mandatory curriculum requirement during my Diploma program** to bridge academic foundations with industry-ready, job-oriented technical skills. The program focused on building robust problem-solving capabilities, software development workflows, and hands-on practical implementation.
 **As part of the milestone assessments during this training, I also actively participated in 3 competitive Kaggle Competitions, focusing on feature engineering, model evaluation, and data-driven problem solving.**
 
+--
 
 ## Key Technical Competencies 
 Recruiters looking for specific technical talent will find exposure to the following domains in this repository:
